@@ -1,0 +1,7 @@
+blog_project.env/
+*.sqlite3
+__pycache__/
+*.py[cod]
+.DS_Store
+.vscode/
+.idea/
