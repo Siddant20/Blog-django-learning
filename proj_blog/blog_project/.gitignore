@@ -1,4 +1,4 @@
-blog_project.env/
+blog_env.env/
 *.sqlite3
 __pycache__/
 *.py[cod]
